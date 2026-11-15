@@ -1,14 +1,17 @@
-uuid: 829c6446-bdc5-5ec4-b39a-ec26c7b176eb
-slug: ambrosia-asa-galactic-burnt-orange
+uuid: 15ad0682-6c7a-5075-a5c8-33146685f16a
+slug: ambrosia-asa-galactic-quadra-teal
 brand:
   slug: ambrosia
-name: ASA Galactic Burnt Orange (w/ Gold Sparkle)
+name: ASA Galactic Quadra Teal
 class: FFF
 type: ASA
 abbreviation: ASA
 url: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+primary_color:
+  color_rgba: '#2c9dbaff'
 tags:
 - glitter
+- filtration_recommended
 properties:
   density: 1.08
   min_print_temperature: 230

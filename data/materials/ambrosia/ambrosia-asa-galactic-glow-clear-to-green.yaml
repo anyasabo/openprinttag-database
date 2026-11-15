@@ -11,6 +11,7 @@ tags:
 - glitter
 - glow_in_the_dark
 - abrasive
+- filtration_recommended
 properties:
   density: 1.08
   min_print_temperature: 230
